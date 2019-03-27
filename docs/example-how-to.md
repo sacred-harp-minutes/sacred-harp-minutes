@@ -28,3 +28,11 @@ A: As long as the text features one or more spaces between the two words you do 
 Q: Should I try to match line breaks to the original image? Should I remove the hyphens or line breaks between words separated by a line break?
 
 A: Leave the line breaks as they appear in the original. Likewise, leave the hyphens in place, even if they break up a singer’s name.
+
+Q: What if I can't read a letter in the original?
+
+Q: What if a page number is wrong in the original because it doesn't match a song in _The Sacred Harp_?
+
+Q: What if I know a name is wrong in the original because I know the person or how they spell their name?
+
+Q: What if there is unusual formatting in the original that can't be represented in the recognized text?
