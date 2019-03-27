@@ -18,10 +18,13 @@ You should make two other changes before finishing your work on the page:
 
 ## Frequently Asked Questions
 Q: If the original image has a misspelled name should I correct that in the text? 
+
 A: No. Since your goal is for the text to match the image, you should ensure that the name is spelled exactly as it is in the original.
 
 Q: If it looks like there were two or three or more spaces between two words in the original image but only one appears in the text I am editing, should I add additional spaces?
+
 A: As long as the text features one or more spaces between the two words you do not have to worry about matching the original. If there are no spaces between two words in the original, you should ensure that there is no space in the text either.
 
 Q: Should I try to match line breaks to the original image? Should I remove the hyphens or line breaks between words separated by a line break?
+
 A: Leave the line breaks as they appear in the original. Likewise, leave the hyphens in place, even if they break up a singer’s name.
