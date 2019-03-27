@@ -3,7 +3,7 @@
 Thank you for participating in correcting the text extracted from scanned Sacred Harp minutes books. Your work will help grant future singers and researchers to Sacred Harp’s history, preserved in these records thanks to the work of thousands of secretaries over decades. 
 
 ## Objective
-Your primary goal is to _make the text of the page from the minutes book you are working with the text in the corresponding image of the page_. This means that whenever you spot a difference between the two you should update the text to match the original. 
+Your primary goal is to _make the text of the page from the minutes book you are working with match the text in the corresponding image of the page_. This means that whenever you spot a difference between the two you should update the text to match the original. 
 
 The differences you will encounter are the result of problems with the process of optical character recognition (OCR), in which a computer program attempts to identify the text in a digitized page image. Errors in OCR could include substitutions of similar-looking letters, strange punctuation or special characters in place of more standard ones, or even whole garbled words or sets of words. Errors in OCR may also include “overcorrections,” where misspelled words in the original are spelled correctly in the recognized text.
 
