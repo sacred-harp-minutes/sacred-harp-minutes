@@ -15,9 +15,9 @@ In the example below, we use the year _1957_. Substitute other years as appropri
      - `mv *.jpg ../BW-JPEG`
 
 4. Retitle folders as follows so that their contents are easy to understand
-   `OCR` to OCR-A and CORRECTED-A
-   `Ocropus` to OCR-B and CORRECTED-B
-   `SOURCE` to COLOR-JPEG
+   - `OCR` to OCR-A and CORRECTED-A
+   - `Ocropus` to OCR-B and CORRECTED-B
+   - `SOURCE` to COLOR-JPEG
    
 5. Copy these plus `SMALL-JPEG` for year into the repo using `git add`, `git commit` and `git push`
 
