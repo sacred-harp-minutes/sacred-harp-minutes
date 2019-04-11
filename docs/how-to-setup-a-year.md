@@ -2,8 +2,11 @@
 
 In the example below, we use the year _1957_. Substitute other years as appropriate.
 
-1. Create a repository with the name `1957`
-2. Create small JPEG versions of the TIFF files in a directory called SMALL-JPEG
+1. Upload the entire `1957` directory on your local machine as a subdirectory of the `sacred-harp-minutes-preservation` repository.
+
+2. Create a new repository with the name `1957`
+
+3. Create small JPEG versions of the TIFF files in a directory called SMALL-JPEG
 
    On a Mac, this can be done with at the command line:
      - `cd TIFF`
@@ -11,13 +14,11 @@ In the example below, we use the year _1957_. Substitute other years as appropri
      - `mkdir ../BW-JPEG`
      - `mv *.jpg ../BW-JPEG`
 
-2. Retitle folders what they should be:
-   - to OCR-A and CORRECTED-A
-   - to OCR-B and CORRECTED-B
-   - to COLOR-JPEG
+4. Retitle folders as follows so that their contents are easy to understand
+   `OCR` to OCR-A and CORRECTED-A
+   `Ocropus` to OCR-B and CORRECTED-B
+   `SOURCE` to COLOR-JPEG
    
-3. Copy these for year into the repo, addn using `git add`, `git commit` and `git push`
+5. Copy these plus `SMALL-JPEG` for year into the repo using `git add`, `git commit` and `git push`
 
-
-4. Run the following script ... (TDB) to create issues
-
+6. Run the following script ... (TDB) to create issues
