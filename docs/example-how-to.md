@@ -31,7 +31,7 @@ A: Leave the line breaks as they appear in the original. Likewise, leave the hyp
 
 _Q: What if I can't read a letter in the original?_
 
-...
+A: If you can't read a letter in the black and white JPEG image of the page, sometimes it helps to look at the corresponding color JPEG, the original scan, which is the file with the same number in the `COLOR_JPEGs` folder. If you are still unsure about the letter, make your best guess and feel free to make a note in a separate document to send to a member of the project team, who can then consult a physical copy of the book.
 
 _Q: What if a page number is wrong in the original because it doesn't match a song in _The Sacred Harp_?_
 
