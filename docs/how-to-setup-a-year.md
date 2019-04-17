@@ -2,7 +2,7 @@
 
 In the example below, we use the year _1957_. Substitute other years as appropriate.
 
-1. Upload the entire `1957` directory on your local machine as a subdirectory of the `sacred-harp-minutes-preservation` repository.
+1. Upload the entire `1957` directory on your local machine as a subdirectory of the `sacred-harp-minutes-preservation` repository. See [instructions](https://github.com/sacred-harp-minutes/standard-git-commands).
 
 2. Create a new repository with the name `1957`
 
