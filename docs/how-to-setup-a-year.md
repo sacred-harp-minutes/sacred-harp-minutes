@@ -16,7 +16,7 @@ In the example below, we use the year _1957_. Substitute other years as appropri
 
 4. Retitle folders as follows so that their contents are easy to understand
    - `OCR` to `OCR-A`
-   - `OCROPUS` `OCR-O`
+   - `OCROPUS` to `OCR-O`
    - `PDF` to `PDF-COLOR`
    
 5. Follow steps 1 and 2 in these [instructions](https://github.com/sacred-harp-minutes/standard-git-commands/blob/master/README.md), then move `JPEG-BW` and the three just-retitled folders for the year into the repo using `git add`, `git commit` and `git push` as described in step 6 of the instructions.
