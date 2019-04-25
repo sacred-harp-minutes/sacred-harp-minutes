@@ -8,7 +8,7 @@ In the example below, we use the year _1957_. Substitute other years as appropri
 
 3. Create small JPEG versions of the TIFF files in a directory called `JPEG-BW`
 
-   On a Mac, this can be done with at the command line:
+   On a Mac, this can be done at the command line:
      - `cd TIFF`
      - `for i in *.tif; do sips -s format jpeg -s formatOptions 90 "${i}" --out "${i%tif}jpg"; done`
      - `mkdir ../JPEG-BW`
